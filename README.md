@@ -11,7 +11,7 @@ In graph representation the problem looks like this:
 
 ( Student solves all the lab homework )    --→   ( Student passes the course )
 
-It has two nodes, and an edge that links the nodes
+It has two nodes, and an edge that links the nodes \\
 a) Implement a routine that encodes the probability as an angle suitable for implementing as an
 input to RY gate.
 b) Use the routine in a) and RY gate to implement marginal probability of solving all the lab
