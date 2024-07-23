@@ -11,11 +11,14 @@ In graph representation the problem looks like this:
 
 ( Student solves all the lab homework )    --→   ( Student passes the course )
 
-It has two nodes, and an edge that links the nodes \\
+It has two nodes, and an edge that links the nodes  
+
 a) Implement a routine that encodes the probability as an angle suitable for implementing as an
-input to RY gate.
+input to RY gate.  
+
 b) Use the routine in a) and RY gate to implement marginal probability of solving all the lab
-homework as a parameter by rotating a single qubit.
+homework as a parameter by rotating a single qubit.  
+
 c) What gate can you use for conditional probabilities? (tip: very much related to RY). Then, what
 is the minimum number of qubits required to implement this problem?
 d) Implement this problem as a Quantum Circuit (i.e. implement a Quantum Bayesian Network)
